@@ -91,7 +91,7 @@ Let's get started...
 #### 1. Initialize your project
 
 * In this folder run `npm init`. Accept all the defaults (press enter a bunch of times)
-
+express body-parser nodemon mysql
 * You should now have a `package.json` file
 
 * Npm install the following packages: `express body-parser nodemon mysql`
